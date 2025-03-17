@@ -1,5 +1,24 @@
 # Zoo Operation Database
 
+## Contents
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+3. [Database Schema](#database-schema)
+   - [Entities & Relationships](#entities--relationships)
+   - [Key Constraints](#key-constraints)
+4. [Database Implementation](#database-implementation)
+   - [SQL Scripts](#sql-scripts)
+   - [Sample Queries](#sample-queries)
+5. [Normalization](#normalization)
+   - [Example of Denormalization for Performance Optimization](#example-of-denormalization-for-performance-optimization)
+6. [Views & Optimized Queries](#views--optimized-queries)
+7. [How to Use](#how-to-use)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+   - [Running Queries](#running-queries)
+8. [Future Enhancements](#future-enhancements)
+9. [License](#license)
+
 ## Project Overview
 The **Zoo Operation Database** project is designed to manage data related to zoos in Romania, their employees, sponsors, animals, and visitors. The database enables efficient tracking of zoo operations, including animal management, employee job assignments, sponsorships, and visitor transactions.
 
